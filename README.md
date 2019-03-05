@@ -1,6 +1,6 @@
 # flysystem-cloudinary
 
-## Don't use this one yet.
+## Don't use this package yet.
 
 Adapter for theleague php flysystem for Cloudinary
 
